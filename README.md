@@ -1,34 +1,25 @@
-Copyright (C) 2019-2020 - Potato Open Sauce Project
+Copyright (C) Descendant
 
-The Xiaomi Mi 9T Pro/Redmi K20 Pro (codenamed _"raphael/raphaelin"_) are high end smartphones from Xiaomi.
+# Device configuration for Xiaomi Mi 9T Pro / Redmi K20 Pro
 
-Both were announced and released in June 2019.
+The Xiaomi Mi 9T Pro / Redmi K20 Pro (codenamed _"raphael"_) is a high-end smartphone from Xiaomi.
+
+It was announced and released in August 2019.
 
 ## Device specifications
 
-| Device        | Xiaomi Mi 9T Pro/Redmi K20 Pro                  |
-| -----------:  | :---------------------------------------------- |
-| SoC           | Qualcomm SM8150 Snapdragon 855 (7nm)            |
-| CPU           | 1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485 |
-| GPU           | Adreno 640                                      |
-| Memory        | 6/8GB RAM (LPDDR4X)                             |
-| Network       | GSM / HSPA / LTE                                |
-| Display       | 2340 x 1080 Pixels (19.5:9), 6.39  inch (~86.1% screen-to-body ratio), ~403 ppi density |
-| Display Technology | Super AMOLED capacitive touchscreen, 16M colors, HDR10 certified |
-| Dimensions    | 156.7 x 74.3 x 8.8 mm                           |
-| Weight        | 191 g (6.74 oz)                                 |
-| Storage       | 128GB UFS 2.1 flash storage                     |
-| Battery       | Non-removable Li-Po 4000 mAh                    |
-| Charging      | Fast charging upto 27W (Qualcomm Quick Charge 4+) |
-| Rear camera 1 | 48 MP, f/1.8, 26mm (wide), 1/2.0", 0.8µm, PDAF, Laser AF |
-| Rear camera 2 | 8 MP, f/2.4, 53mm (telephoto), 1/4.0", 1.12µm, PDAF, 2x optical zoom |
-| Rear camera 3 | 13 MP, f/2.4, 12mm (ultrawide), 1/3.1", 1.12µm  |
-| Front camera  | Single Motorized pop-up 20 MP, f/2.2, (wide), 1/3.4", 0.8µm |
-| Shipped Android version | Android 9.0 with MIUI 10              |
+|                   Basic | Spec Sheet                                                                   |
+| ----------------------: | :--------------------------------------------------------------------------- |
+|                     SoC | Qualcomm SDM855 Snapdragon 855                                               |
+|                     CPU | Octa-core (12.84 GHz Kryo 485 & 32.42GHz Kryo 485 & 41.8GHz Kryo 485)        |
+|                     GPU | Adreno 640                                                                   |
+|                  Memory | 6/8 GB RAM                                                                   |
+| Shipped Android Version | 9.0 with MIUI 10                                                             |
+|                 Storage | 64/128/256 GB                                                                |
+|                 Battery | Non-removable Li-Po 4000 mAh battery                                         |
+|                 Display | 1080 x 2340 pixels, 19.5:9 ratio, 6.39 inches, AMOLED HDR (~403 ppi density) |
+|                  Camera | 48MP(Primary) 8MP(Ultra-wide) 13MP(Telephoto)                                |
 
 ## Device picture
 
-![Xiaomi Mi 9T Pro/Redmi K20 Pro](https://xiaomi-mi.com/uploads/CatalogueImage/k20-pro%20(2)_17557_1559503979.jpg "Xiaomi Mi 9T Pro/Redmi K20 Pro in Carbon Black")
-
-#### Proprietary-files.txt
-All unpinned blobs are extracted from [miui_RAPHAELININGlobal_V11.0.1.0.QFKINXM_5e75bba584_10.0](http://bigota.d.miui.com/V11.0.1.0.QFKINXM/miui_RAPHAELININGlobal_V11.0.1.0.QFKINXM_5e75bba584_10.0.zip).
+![Xiaomi Mi 9T Pro / Redmi K20 Pro](<https://user-images.githubusercontent.com/58150791/72027564-e8dc0900-32c2-11ea-926b-dd0c33489902.jpg> "Xiaomi Mi 9T Pro / Redmi K20 Pro in black")

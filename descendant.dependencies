@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "Descendant-Devices/device_xiaomi_raphael",
+    "target_path": "device/xiaomi/raphael",
+    "branch": "eleven"
+  },
+  {
+    "remote": "github",
+    "repository": "raphael-devs/android_vendor_xiaomi",
+    "target_path": "vendor/xiaomi/",
+    "branch": "lineage-18.0"
+  }
+]

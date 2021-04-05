@@ -7,14 +7,12 @@
 $(call inherit-product, device/xiaomi/raphael/device.mk)
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/potato/config/common_full_phone.mk)
+$(call inherit-product, vendor/descendant/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := raphael
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_NAME := potato_raphael
-
-BUILD_FINGERPRINT := "Xiaomi/raphaelin/raphaelin:9/PKQ1.181121.001/V10.3.3.0.PFKINXM:user/release-keys"
+PRODUCT_NAME := descendant_raphael
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
