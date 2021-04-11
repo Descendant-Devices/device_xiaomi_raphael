@@ -19,5 +19,5 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Radius of the software rounded corners. -->
-    <dimen name="rounded_corner_radius">87px</dimen>
+    <dimen name="rounded_corner_radius">82px</dimen>
 </resources>
