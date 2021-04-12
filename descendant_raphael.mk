@@ -15,21 +15,17 @@
 # Inherit from those products. Most specific first.
 $(call inherit-product, device/xiaomi/raphael/device.mk)
 
-# Inherit some common ArrowOS stuff.
-$(call inherit-product, vendor/arrow/config/common.mk)
+# Inherit some common Descendant stuff.
+$(call inherit-product, vendor/descendant/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := arrow_raphael
+PRODUCT_NAME := descendant_raphael
 PRODUCT_DEVICE := raphael
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Redmi K20 Pro
+PRODUCT_MODEL := MI 9T Pro
 PRODUCT_MANUFACTURER := Xiaomi
-DEVICE_MAINTAINER := kubersharma001
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="raphael"
 
-BUILD_FINGERPRINT := "Xiaomi/raphael/raphael:11/RKQ1.200826.002/21.1.26:user/release-keys"
-
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
-TARGET_INCLUDE_PIXEL_CHARGER := true
