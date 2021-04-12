@@ -24,3 +24,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
 # Seamless transfer
 PRODUCT_PRODUCT_PROPERTIES += \
     sys.fflag.override.settings_seamless_transfer=true
+
+# Gboard
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.com.google.ime.kb_pad_port_b=1
