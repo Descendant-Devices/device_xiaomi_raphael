@@ -13,4 +13,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_raphael.mk
+    $(LOCAL_DIR)/descendant_raphael.mk
+
+COMMON_LUNCH_CHOICES := \
+    descendant_raphael-user \
+    descendant_raphael-userdebug \
+    descendant_raphael-eng
